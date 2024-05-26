@@ -18,8 +18,9 @@ działanie serwerów
 ![image](https://github.com/Indrawi1/Lab10/assets/98088474/2deb302c-920f-428d-9277-2f50b9099625)
 ![image](https://github.com/Indrawi1/Lab10/assets/98088474/f0f6ccd5-1227-40d2-a350-fa5536858c0d)
 ![image](https://github.com/Indrawi1/Lab10/assets/98088474/6aff53f2-9458-46b5-81db-ff032e8d5239)
-logi
 
+
+Logi
 ![image](https://github.com/Indrawi1/Lab10/assets/98088474/7ece548f-1fb8-4984-a2a7-73fb619efe9a)
 
 
